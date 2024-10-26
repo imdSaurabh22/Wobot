@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imdSaurabh22/Wobot/static/css/main.0fe30853.css",
+    "main.js": "/imdSaurabh22/Wobot/static/js/main.312cf30c.js",
+    "index.html": "/imdSaurabh22/Wobot/index.html",
+    "main.0fe30853.css.map": "/imdSaurabh22/Wobot/static/css/main.0fe30853.css.map",
+    "main.312cf30c.js.map": "/imdSaurabh22/Wobot/static/js/main.312cf30c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe30853.css",
+    "static/js/main.312cf30c.js"
+  ]
+}
